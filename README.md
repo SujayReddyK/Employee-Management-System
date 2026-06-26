@@ -20,3 +20,17 @@ Employee Management System is a Java desktop application developed to manage emp
 - Git & GitHub
 
 ## Project Structure
+EMS/
+├── src/
+├── database/
+├── lib/
+└── README.md
+## How to Run
+1. Clone the repository.
+2. Open the project in IntelliJ IDEA.
+3. Configure the MySQL database.
+4. Add the MySQL Connector JAR.
+5. Run `Main.java`.
+
+## Author
+Sujay Reddy
